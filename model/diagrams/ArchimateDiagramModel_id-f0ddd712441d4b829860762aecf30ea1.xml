@@ -1,18 +1,40 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="InitierDjibril"
     id="id-f0ddd712441d4b829860762aecf30ea1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dcfdb629168e4385b43aa21128158a4c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a42c78bdc65045a4a6ab29b21b44a304"
+        source="id-dcfdb629168e4385b43aa21128158a4c"
+        target="id-f22a04918c474137a7bafc8f9b77ae89">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-163c7d3f6e5c4befaaa8e2e1494f874d.xml#id-163c7d3f6e5c4befaaa8e2e1494f874d"/>
+    </sourceConnections>
     <bounds
-        x="182"
-        y="212"
+        x="120"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-96002a873319471b8a51511875167dc5.xml#id-96002a873319471b8a51511875167dc5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f22a04918c474137a7bafc8f9b77ae89"
+      targetConnections="id-a42c78bdc65045a4a6ab29b21b44a304">
+    <bounds
+        x="408"
+        y="156"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-b3073d23df8e400387d13e86b33e064f.xml#id-b3073d23df8e400387d13e86b33e064f"/>
   </children>
 </archimate:ArchimateDiagramModel>
