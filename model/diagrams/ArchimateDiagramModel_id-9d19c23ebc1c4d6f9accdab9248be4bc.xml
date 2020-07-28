@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Première installation windows de djibril"
+    id="id-9d19c23ebc1c4d6f9accdab9248be4bc">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3fc8163a9f554ed58fff9ec1053496aa">
+    <bounds
+        x="292"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-04fa88d6a68c49ddb4b389fa42ad861e.xml#id-04fa88d6a68c49ddb4b389fa42ad861e"/>
+  </children>
+</archimate:ArchimateDiagramModel>
