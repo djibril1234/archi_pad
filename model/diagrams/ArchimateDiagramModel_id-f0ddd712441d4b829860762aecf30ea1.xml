@@ -29,10 +29,10 @@
       id="id-f22a04918c474137a7bafc8f9b77ae89"
       targetConnections="id-a42c78bdc65045a4a6ab29b21b44a304">
     <bounds
-        x="408"
-        y="156"
-        width="120"
-        height="55"/>
+        x="360"
+        y="141"
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-b3073d23df8e400387d13e86b33e064f.xml#id-b3073d23df8e400387d13e86b33e064f"/>
