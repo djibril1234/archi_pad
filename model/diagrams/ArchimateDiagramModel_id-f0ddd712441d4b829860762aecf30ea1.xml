@@ -30,9 +30,9 @@
       targetConnections="id-a42c78bdc65045a4a6ab29b21b44a304">
     <bounds
         x="360"
-        y="144"
-        width="120"
-        height="55"/>
+        y="141"
+        width="121"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-b3073d23df8e400387d13e86b33e064f.xml#id-b3073d23df8e400387d13e86b33e064f"/>
