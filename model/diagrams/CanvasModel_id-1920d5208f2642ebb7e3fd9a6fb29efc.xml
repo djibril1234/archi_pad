@@ -28,7 +28,7 @@
         x="84"
         y="240"
         width="949"
-        height="205"/>
+        height="313"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -38,9 +38,9 @@
       borderColor="#C0C0C0">
     <bounds
         x="84"
-        y="456"
+        y="564"
         width="949"
-        height="181"/>
+        height="73"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -52,16 +52,16 @@
         x="696"
         y="252"
         width="217"
-        height="138"/>
+        height="145"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-1c6da3fff22b4165b15f7eb82eea5e3e">
     <bounds
-        x="720"
-        y="289"
-        width="169"
-        height="64"/>
+        x="702"
+        y="276"
+        width="205"
+        height="49"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-d9873e316f2844c0a456204f4e2c8fe9.xml#id-d9873e316f2844c0a456204f4e2c8fe9"/>

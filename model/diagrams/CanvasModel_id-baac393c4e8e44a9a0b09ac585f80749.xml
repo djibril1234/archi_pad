@@ -1,5 +1,6 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Functionnal Map View"
     id="id-baac393c4e8e44a9a0b09ac585f80749">
@@ -77,52 +78,38 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-d2ef45c1e05e404da8633e8e316faaa7"
-      fillColor="#ffff95"
-      content="Gestion commerciale "
-      borderColor="#C0C0C0">
-    <bounds
-        x="622"
-        y="224"
-        width="205"
-        height="111"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelSticky"
       id="id-e5fe6d67d5a7425484022c8d63d22aca"
       fillColor="#c6f9f7"
-      content="Gestion des infrastructures portuaires "
+      content="Gestion de la capitainerie et des opérations portuaires"
       borderColor="#C0C0C0">
     <bounds
         x="262"
         y="224"
-        width="243"
-        height="111"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelSticky"
-      id="id-98a27ee7ab704e258ecc866fb7b8c32b"
-      font="1|Segoe UI|7.875|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#d5ff95"
-      content="Suivi dossier escale"
-      borderColor="#C0C0C0">
-    <bounds
-        x="640"
-        y="253"
-        width="169"
-        height="34"/>
+        width="255"
+        height="149"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-98a690cfb77445f0ad422e0f4b2763fc"
       fillColor="#f7c4c4"
       content="Gestion du traffic des marchandises"
-      borderColor="#C0C0C0"
-      textPosition="1">
+      borderColor="#C0C0C0">
     <bounds
         x="276"
         y="258"
-        width="181"
-        height="43"/>
+        width="205"
+        height="67"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-af7ad997ddcd48878ed647e4946b36ec">
+    <bounds
+        x="312"
+        y="286"
+        width="145"
+        height="27"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-7013ce35a97546bba0774c8ac4ea591c.xml#id-7013ce35a97546bba0774c8ac4ea591c"/>
   </children>
 </canvas:CanvasModel>
