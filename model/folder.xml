@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Architecture du Port Autonome de Dakar"
     id="id-946abedd1d0046a19e5b64e5b42b2ef2"
+    purpose="Ce modèle met en évidence les differentes couches d'architecture du Port Autonome de Dakar c'est à dire depuis la couche métier jusqu'à la couche technique. Une mise à jour frequente est effectuée sur le modèle avec des publications des schéma sur le site de publication. "
     version="4.6.0"/>
