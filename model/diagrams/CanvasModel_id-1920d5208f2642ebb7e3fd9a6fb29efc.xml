@@ -46,11 +46,11 @@
       xsi:type="canvas:CanvasModelSticky"
       id="id-c6f7ca1cdb5843adba6e191dfc2766c5"
       fillColor="#ffa093"
-      content="MANAGEMENT DES NORMES "
+      content="Gestion des marchandises "
       borderColor="#C0C0C0">
     <bounds
-        x="120"
-        y="79"
+        x="696"
+        y="252"
         width="217"
         height="138"/>
   </children>
@@ -58,10 +58,10 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-1c6da3fff22b4165b15f7eb82eea5e3e">
     <bounds
-        x="144"
-        y="105"
+        x="720"
+        y="289"
         width="169"
-        height="40"/>
+        height="64"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-d9873e316f2844c0a456204f4e2c8fe9.xml#id-d9873e316f2844c0a456204f4e2c8fe9"/>
