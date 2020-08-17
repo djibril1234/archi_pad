@@ -1,0 +1,67 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="PROCESSUS METIER MAP"
+    id="id-1920d5208f2642ebb7e3fd9a6fb29efc">
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-95c60d6c19584211ba16ffbf2cb899a9"
+      fillColor="#ffff95"
+      content="PROCESSUS DE MANAGEMENT "
+      borderColor="#C0C0C0">
+    <bounds
+        x="84"
+        y="36"
+        width="721"
+        height="193"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-479ddb4cd8f941f99f3bc52af908f9e8"
+      fillColor="#d5ff95"
+      content="PROCESSUS OPERATIONNEL "
+      borderColor="#C0C0C0">
+    <bounds
+        x="84"
+        y="240"
+        width="721"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-56019da7d33d4de7a4d81ccd4eb3e89c"
+      fillColor="#d5ff95"
+      content="PROCESSUS SUPPORT"
+      borderColor="#C0C0C0">
+    <bounds
+        x="84"
+        y="348"
+        width="721"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-c6f7ca1cdb5843adba6e191dfc2766c5"
+      fillColor="#ffa093"
+      content="MANAGEMENT DES NORMES "
+      borderColor="#C0C0C0">
+    <bounds
+        x="120"
+        y="79"
+        width="217"
+        height="138"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9872a00aacf04c279cd1109813276e87">
+    <bounds
+        x="132"
+        y="156"
+        width="193"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-9eb5e35cafc549d7940c21dce687a835.xml#id-9eb5e35cafc549d7940c21dce687a835"/>
+  </children>
+</canvas:CanvasModel>
