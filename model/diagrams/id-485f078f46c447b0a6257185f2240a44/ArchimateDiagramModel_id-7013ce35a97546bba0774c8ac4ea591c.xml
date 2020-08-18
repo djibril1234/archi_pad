@@ -249,9 +249,9 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-53cea58f8fc34b17a17c0588cbec4899">
     <bounds
-        x="111"
+        x="120"
         y="576"
-        width="355"
+        width="346"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
